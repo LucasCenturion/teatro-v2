@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+
+
+body{
+  background-image: url(../IMG/PORTADAS.jpeg);
+}
+
+h1, span{
+  font-family: 'Caprasimo', cursive;
+}
+
+p{
+  font-family: 'Bacasime Antique', serif;
+}
+
+.portadaLazarillo{
+  background-image: url(../IMG/278_01_grande.jpg);
+  background-size: cover;
+  height: 400px;
+  text-align: center;
+}
+.imgNovedades{
+  object-fit: cover;
+}
+
+.fondoNoticias{
+  background-color: antiquewhite;
+}
+
+h1{
+  color: bisque;
+  text-align: center;
+}
+
+table{
+  background-color: bisque;
+  font-family: 'Barlow', sans-serif;
+}
+
+a{
+  font-family: 'Barlow', sans-serif;
+}
+
+form ,select, option, input{
+  background-color: bisque;
+}
+
